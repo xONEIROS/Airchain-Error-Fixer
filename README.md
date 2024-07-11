@@ -7,19 +7,19 @@
 sudo apt install python3
 ```
 2. فایل را دانلود کنید
-    ```bash
-    git clone https://github.com/xONEIROS/Airchain-Error-Fixer.git
-    cd Airchain-Error-Fixer
-    ```
+ ```bash
+git clone https://github.com/xONEIROS/Airchain-Error-Fixer.git
+cd Airchain-Error-Fixer
+```
 
 3. یک اسکرین جدید بسازید
-    ```bash
-    screen -S log-monitor
-    ```
+```bash
+screen -S log-monitor
+```
 4. کد را اجرا کنید
-   ```bash
-    sudo python3 monitor.py
-    ```
+```bash
+sudo python3 monitor.py
+```
     کلیدهای `Ctrl+A` را فشار داده و سپس `D` را بزنید تا از سشن جدا شوید و اسکریپت در پس‌زمینه اجرا شود.
 
 
@@ -29,3 +29,16 @@ sudo apt install python3
 
 ```bash
 screen -r log-monitor
+```
+
+<div align="center">
+    <p>
+        <a href="Https://x.com/0xOneiros">
+            <small>twitter</small>  
+        </a>
+        | 
+        <a href="Https://t.me/xOneiros">
+            <small>telegram</small>  
+        </a>
+    </p>
+</div>
